@@ -1,3 +1,7 @@
+# Smart-contract artifacts
+artifacts/
+cache/
+
 # Logs
 logs
 *.log
